@@ -30,4 +30,4 @@ Zoom Clone that works on Android & iOS!
     
 ## Feedback
 
-If you have any feedback, please reach out to me at ayushtiwari086@gmail.com
+If you have any feedback, please reach out to me at amansingh.28757@gmail.com
